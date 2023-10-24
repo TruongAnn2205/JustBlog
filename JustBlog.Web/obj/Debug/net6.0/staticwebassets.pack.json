@@ -1,0 +1,1029 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\JustBlog.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JustBlog.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\assets\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\css\\admin-styles.css",
+      "PackagePath": "staticwebassets\\css\\admin-styles.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\js\\admin-scripts.js",
+      "PackagePath": "staticwebassets\\js\\admin-scripts.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Fsoft\\NguyenTruongAn_MockProject\\NguyenTruongAn_NWEB_Assignment1\\JustBlog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.JustBlog.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.JustBlog.Web.props",
+      "PackagePath": "build\\JustBlog.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.JustBlog.Web.props",
+      "PackagePath": "buildMultiTargeting\\JustBlog.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.JustBlog.Web.props",
+      "PackagePath": "buildTransitive\\JustBlog.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
