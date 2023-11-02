@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\JustBlog.Web.props" />
-</Project>
